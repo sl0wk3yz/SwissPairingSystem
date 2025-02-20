@@ -1,2 +1,2 @@
 # SwissPairingSystem
-progrma that can pair playrs using the swiss pairings systems
+program that can pair playrs using the swiss pairings systems
