@@ -6,7 +6,7 @@ package swisspairings;
 
 /**
  *
- * @author lwazi
+ * @author lwazinkoe@gmail.com
  */
 class Player {
     private String name;
