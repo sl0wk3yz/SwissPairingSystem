@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Lwazi Selepe
+ * @author lwazinkoe@gmail.com
  */
 public class SwissPairings {
 
